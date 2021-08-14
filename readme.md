@@ -1,1 +1,1 @@
-### Don't open index.html
+### Don't open the first file
